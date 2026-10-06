@@ -1,0 +1,13 @@
+{
+    "geode": "5.10.1",
+    "gd": {
+        "mac": "2.2081"
+    },
+    "id": "brashlo_.newmods",
+    "name": "NewMods",
+    "version": "v1.0.0",
+    "developer": "BrashLO_",
+    "description": "Shows a popup on startup listing any new mods installed since the last launch. Useful if you forget which mods you just installed.",
+    "repository": "https://github.com/BrashLO_/NewMods",
+    "tags": ["utility", "popup"]
+}
