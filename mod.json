@@ -1,7 +1,8 @@
 {
     "geode": "5.10.1",
     "gd": {
-        "mac": "2.2081"
+        "mac": "2.2081",
+        "win": "2.2081"
     },
     "id": "brashlo_.newmods",
     "name": "NewMods",
