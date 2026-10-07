@@ -14,6 +14,10 @@ jobs:
             platform: win
           - os: macos-latest
             platform: mac
+          - os: ubuntu-latest
+            platform: android32
+          - os: ubuntu-latest
+            platform: android64
 
     runs-on: ${{ matrix.config.os }}
     steps:
